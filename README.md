@@ -20,28 +20,28 @@ The solutions can be found in the different folders inside this repository. A br
 
 In this project you implement your own neural network **from scratch** using numpy. You implement not only the forward pass (prediction) but also the backpropagation algorithm (training). It is a very simple use case with a single hidden layer, but you obtain very interesting results (see figures).
 <br>
-<img src="doc/firstnn_train_val_loss.png" width="50%">
+<img src="other/images/firstnn_train_val_loss.png" width="50%">
 <br>
-<img src="doc/firstnn_prediction.png" width="50%">
+<img src="other/images/firstnn_prediction.png" width="50%">
 
 ### 2. Image classification using convolutional neural networks
 
 Very interesting project where you use convolutional neural networks for implementing a image classifier (using CIFAR-10 dataset). Example of the achieved results:
 <br>
-<img src="doc/cnn_predictions.png" width="50%">
+<img src="other/images/cnn_predictions.png" width="50%">
 
 ### 3. Generate TV scripts using RNN
 
 You use a recurrent neural network trained on TV scripts of **The Simpsons** to automatically generate a new one. This is the kind of script automatically generated:
 <br>
-<img src="doc/tvscript_prediction.png">
+<img src="other/images/tvscript_prediction.png">
 
 ### 4. English-to-French translation using deep learning
 You use a recurrent neural network to implement a sequence-to-sequence system for language translation. Concretely, you use a dataset of english-to-french translation. Example of translation performed by the system:
 <br>
-<img src="doc/translation_prediction.png">
+<img src="other/images/translation_prediction.png">
 
 ### 5. Digits and faces generation using generative adversarial networks
 This project is quite nice to understand GANs, and at the end of it you have a quite nice convolutional GAN able to generate almost-realistic faces. Check the results:
 <br>
-<img src="doc/faces.png" width="30%">
+<img src="other/images/faces.png" width="30%">
